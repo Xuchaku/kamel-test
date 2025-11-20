@@ -1,6 +1,6 @@
 # Test Assignment: Interactive Line Chart
 
-## https://xuchaku.github.io/Kameleoon-test/ Recharts+React+Typescipt+Vite
+## https://xuchaku.github.io/kamel-test/ Recharts+React+Typescipt+Vite
 
 ## Goal
 
